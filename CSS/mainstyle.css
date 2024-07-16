@@ -1,0 +1,73 @@
+/* =============== Golabal =============== */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #272B30;
+    color: white;
+}
+
+/* =============== Body  =============== */
+
+
+/* ====== Header  ======= */
+
+header {
+    position: relative;
+    width: 100%;
+    height: 150px;
+    background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.9)), url(../img/banner.png);
+    background-size: cover;
+    background-position: center;
+
+}
+
+/* ====== Section 01  ======= */
+
+.container {
+
+    margin: auto;
+    /* background-color: aqua; */
+}
+
+.gcbody {
+    padding: 20px;
+    border: 1px solid #3A497B;
+    height: 234px;
+}
+
+.gcfooter {
+    padding: 20px;
+    border: 1px solid #3A497B;
+
+}
+
+.figurecaption p {
+    font-size: 10px;
+    
+}
+
+footer {
+    background-color: #14161a;
+}
+
+#Ozy {
+    background-color: #3A497B;
+    color: white;
+    position: relative;
+    bottom: 25px;
+}
+
+ul {
+    color: white;
+
+}
+
+.loading{
+position: relative;
+    width: 300px;
+    height: 300px;
+}
